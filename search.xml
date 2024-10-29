@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>C和C++学习笔记(二)</title>
+      <link href="/2024/10/11/241029001/"/>
+      <url>/2024/10/11/241029001/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p><strong>加粗</strong><br><em>斜体</em><br><del>删除线</del><br><u>下划线</u></p><p> 引用</p><blockquote><p>引用</p></blockquote><h2 id="分割线"><a href="#分割线" class="headerlink" title=" 分割线"></a> 分割线</h2><hr><hr><p> 图片<br><img src="/URL_ADDRESS" alt="图片"></p><p> 超链接<br><a href="URL_ADDRESS">超链接</a></p><p> 列表</p><ol><li>列表1</li><li>列表2</li></ol><ul><li>列表1</li><li>列表2</li></ul><p> 表格</p><table><thead><tr><th>表头1</th><th>表头2</th><th>表头3</th></tr></thead><tbody><tr><td>内容1</td><td>内容2</td><td>内容3</td></tr><tr><td>内容1</td><td>内容2</td><td>内容3</td></tr></tbody></table><p> 代码</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span></span><br><span class="line">&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程语言 </category>
+          
+          <category> 蓝桥云课 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 信息学竞赛 </tag>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/05/20/hello-world/"/>
       <url>/2024/05/20/hello-world/</url>
